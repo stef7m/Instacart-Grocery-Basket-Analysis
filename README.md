@@ -19,5 +19,10 @@ Instacart is an online grocery store that operates through an app. Even though t
 - Which departments have the highest frequency of product orders?
 - Is there a connection between age and family status in terms of ordering habits?
 
-## Datasets
+## Dataset
+The dataset comprise information on the following parameters:
+- orders
+- products
+- departments 
 
+The full details of the data are available [here “The Instacart Online Grocery Shopping Dataset 2017”](https://www.instacart.com/datasets/grocery-shopping-2017)
