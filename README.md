@@ -1,5 +1,7 @@
 # Instacart-Grocery-Basket-Analysis
 
+![Instacart Logo](https://user-images.githubusercontent.com/122839298/212971915-549798c5-2cf9-4cb9-9b07-33c50cdb6566.png)
+
 ## Tools
 For this project, the following tools were used:
 - pandas - for data analysis
@@ -18,3 +20,4 @@ Instacart is an online grocery store that operates through an app. Even though t
 - Is there a connection between age and family status in terms of ordering habits?
 
 ## Datasets
+
